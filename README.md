@@ -1,2 +1,3 @@
 # Brick-Breaker-Game
 Brick Breaker Game Using Java
+The Brick Breaker Game project is a game designed in Java using Swing. It follows the arcade style format featuring a bouncing ball, a user controlled paddle and various bricks to knock down. Your objective is to keep the ball from falling off the paddle and eliminate all the bricks on the screen. The game includes collision detection winning conditions and allows users to control the paddle. While this version is simple it serves as a foundation for building Brick Breaker games with additional levels, power ups and enhancements to provide an even more engaging experience.
